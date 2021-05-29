@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @igsies8
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+igsies8/igsies8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi there guys I have downloaded etcher I am hoping to use tails through my 32GB USB stick I have pasted the flash from file IOS image however upon entering that it says "It look like this is not a bootable image the image does not seem to contain a partition table, and might not be recognized or bootable by your device."
+I click okay the continue button but then cannot selct the target of my USB and therfore can't click the flash button. May you help me with this issue and tell me what I am doing wrong.
+Thanks so much.
